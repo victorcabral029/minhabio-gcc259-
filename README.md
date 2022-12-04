@@ -18,3 +18,4 @@
 <a href="https://www.linkedin.com/in/iamvictorcabral/"><img width="170" src="https://github.com/victorcabral029/victorcabral029/blob/main/assets/linkedin.png"></a>
 <a href="https://medium.com/@iamvictorcabral/"><img width="170" src="https://github.com/victorcabral029/victorcabral029/blob/main/assets/medium.png"></a>
 
+![img](https://github.com/victorcabral029/minhabio-gcc259-/blob/img.jpeg?raw=true)
